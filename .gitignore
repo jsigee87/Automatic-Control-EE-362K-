@@ -1,0 +1,9 @@
+# Ignore all pictures, word docs, non-MATLAB or non-PDF #
+*.png
+*.jpeg
+*.doc*
+*.PNG
+*.asv
+*.bmp
+*.jpg
+
